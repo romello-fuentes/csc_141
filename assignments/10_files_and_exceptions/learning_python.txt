@@ -1,0 +1,4 @@
+In Python you can automate tasks easily.
+In Python you can build web applications.
+In Python you can analyze data efficiently.
+In Python you can create games and simulations.
